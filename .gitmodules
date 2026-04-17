@@ -1,0 +1,36 @@
+[submodule "C_Lessons"]
+	path = C_Lessons
+	url = https://github.com/Tiisetso2004/C_Lessons.git
+[submodule "C_Projects"]
+	path = C_Projects
+	url = https://github.com/Tiisetso2004/C_Projects.git
+[submodule "Cpp_Lessons"]
+	path = Cpp_Lessons
+	url = https://github.com/Tiisetso2004/Cpp_Lessons.git
+[submodule "Cpp_Projects"]
+	path = Cpp_Projects
+	url = https://github.com/Tiisetso2004/Cpp_Projects.git
+[submodule "CS_Lessons"]
+	path = CS_Lessons
+	url = https://github.com/Tiisetso2004/CS_Lessons.git
+[submodule "CS_Projects"]
+	path = CS_Projects
+	url = https://github.com/Tiisetso2004/CS_Projects.git
+[submodule "Python_Lessons"]
+	path = Python_Lessons
+	url = https://github.com/Tiisetso2004/Python_Lessons.git
+[submodule "Python_Projects"]
+	path = Python_Projects
+	url = https://github.com/Tiisetso2004/Python_Projects.git
+[submodule "Java_Lessons"]
+	path = Java_Lessons
+	url = https://github.com/Tiisetso2004/Java_Lessons.git
+[submodule "Java_Projects"]
+	path = Java_Projects
+	url = https://github.com/Tiisetso2004/Java_Projects.git
+[submodule "JavaScript_Lessons"]
+	path = JavaScript_Lessons
+	url = https://github.com/Tiisetso2004/JavaScript_Lessons.git
+[submodule "JavaScript_Projects"]
+	path = JavaScript_Projects
+	url = https://github.com/Tiisetso2004/JavaScript_Projects.git
